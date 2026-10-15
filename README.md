@@ -64,3 +64,16 @@ uts-so-09011382530152/
 ```
 
 Struktur tersebut memisahkan dokumentasi, identitas mahasiswa, dan script Bash agar proyek lebih terorganisasi.
+## 8. Struktur Proyek
+
+```text
+uts-so-09011382530152/
+├── README.md
+├── nim.txt
+└── script/
+    ├── alias.sh
+    ├── backup.sh
+    └── backup_loop.sh
+```
+
+Struktur tersebut memisahkan dokumentasi, identitas mahasiswa, dan script Bash agar proyek lebih terorganisasi.
