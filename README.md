@@ -51,3 +51,16 @@ Kendala tersebut ditangani dengan mengulangi autentikasi GitHub, memeriksa konfi
 
 ## 7. Kesimpulan
 Melalui proyek ini, mahasiswa mempelajari penggunaan Bash Shell, pengelolaan file, pembuatan backup otomatis, pencatatan log, alias, serta dasar pengelolaan proses pada Linux Ubuntu.
+## 8. Struktur Proyek
+
+```text
+uts-so-09011382530152/
+├── README.md
+├── nim.txt
+└── script/
+    ├── alias.sh
+    ├── backup.sh
+    └── backup_loop.sh
+```
+
+Struktur tersebut memisahkan dokumentasi, identitas mahasiswa, dan script Bash agar proyek lebih terorganisasi.
