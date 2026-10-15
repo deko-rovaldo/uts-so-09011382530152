@@ -77,3 +77,6 @@ uts-so-09011382530152/
 ```
 
 Struktur tersebut memisahkan dokumentasi, identitas mahasiswa, dan script Bash agar proyek lebih terorganisasi.
+## 10. Evaluasi dan Pengembangan
+
+Proyek ini dapat dikembangkan dengan menambahkan validasi hasil backup, pengaturan interval otomatis, dan pencatatan pesan kesalahan. Pengembangan tersebut bertujuan meningkatkan keandalan proses backup pada Linux Ubuntu.
